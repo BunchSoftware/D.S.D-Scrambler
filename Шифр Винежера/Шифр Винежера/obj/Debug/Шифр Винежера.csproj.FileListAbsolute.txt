@@ -1,0 +1,12 @@
+E:\Visual Studio Project\Шифр Винежера\Шифр Винежера\bin\Debug\Шифр Винежера.exe
+E:\Visual Studio Project\Шифр Винежера\Шифр Винежера\bin\Debug\Шифр Винежера.pdb
+E:\Visual Studio Project\Шифр Винежера\Шифр Винежера\obj\Debug\Шифр Винежера.csproj.AssemblyReference.cache
+E:\Visual Studio Project\Шифр Винежера\Шифр Винежера\obj\Debug\Шифр_Винежера.Properties.Resources.resources
+E:\Visual Studio Project\Шифр Винежера\Шифр Винежера\obj\Debug\Шифр Винежера.csproj.GenerateResource.cache
+E:\Visual Studio Project\Шифр Винежера\Шифр Винежера\obj\Debug\Шифр Винежера.csproj.CoreCompileInputs.cache
+E:\Visual Studio Project\Шифр Винежера\Шифр Винежера\obj\Debug\Шифр Винежера.exe
+E:\Visual Studio Project\Шифр Винежера\Шифр Винежера\obj\Debug\Шифр Винежера.pdb
+E:\Visual Studio Project\Шифр Винежера\Шифр Винежера\bin\Debug\en-AU\Шифр Винежера.resources.dll
+E:\Visual Studio Project\Шифр Винежера\Шифр Винежера\obj\Debug\en-AU\Шифр Винежера.resources.dll
+E:\Visual Studio Project\Шифр Винежера\Шифр Винежера\obj\Debug\Шифр_Винежера.Application.resources
+E:\Visual Studio Project\Шифр Винежера\Шифр Винежера\obj\Debug\Шифр_Винежера.Application.en-AU.resources
